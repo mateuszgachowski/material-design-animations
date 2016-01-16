@@ -8,3 +8,6 @@ Please see particular component inside `vanilla` or `jquery` directories.
 Separate README files can be found inside.
 
 
+## components
+
+1. Overlapping Motion [[Vanilla](vanilla/overlapping-motion/)]
